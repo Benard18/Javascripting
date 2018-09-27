@@ -16,6 +16,19 @@
 
      https://groups.google.com/forum/#!forum/nodejs  
 
+ ## Requirements Based on the application
+ Please install the latest node package manager.
+ ```
+ $ sudo apt-get install npm
+ ```
+ Install javascripting by running this code
+ ```
+ $ sudo npm install --global javascripting
+ ```
+ Then run it with this command to get started
+ ```
+ $ javascripting
+ ```
  ## Found a bug with javascripting or just want to contribute?  
 
   The official repository for javascripting is:  
